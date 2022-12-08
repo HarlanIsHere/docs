@@ -3,10 +3,9 @@ slug: /unshared-projects
 hide_table_of_contents: true
 ---
 
-# Unshared projects are no longer visible
+# Unshared projects are now visible!
 
-**Updated November 15, 2022.** Unshared projects can no longer be opened on TurboWarp, forkphorus, and other third-party sites due to changes to the Scratch API.
-
+**Updated December 8, 2022.** Unshared projects are able to be opened on TurboWarp, forkphorus, and other third-party sites.
 This page answers most of the questions people have. Please read it in full before discussing these changes with other people to avoid misinformation.
 
 You've had nearly 6 months notice to update your workflows, so hopefully you've done so by now.
